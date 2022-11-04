@@ -1,0 +1,26 @@
+body{
+  background-color:#CDF0EA;
+}
+hr{
+border-style: dotted none none;
+border-color: grey;
+border-width: 2px;
+width:10%;
+}
+img{
+  height: 150px;
+}
+h1{
+ color:#FD841F;
+}
+h3{
+ color:#FD841F;
+}
+
+a:hover {
+  color: #FF577F;
+}
+
+.contact-me {
+  font-size: 20px;
+}
